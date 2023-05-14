@@ -1,2 +1,8 @@
-# c-lq-DJFP
-C of lq-DJFP
+# W ? 
+
+C of 
+
+[`https://gitlab.com/liqowomo/lq-djfp`](https://gitlab.com/liqowomo/lq-djfp)
+
+
+No other use 
